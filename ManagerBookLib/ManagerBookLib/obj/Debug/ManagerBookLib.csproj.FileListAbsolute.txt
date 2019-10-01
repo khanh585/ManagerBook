@@ -1,0 +1,5 @@
+c:\users\se130585\source\repos\ManagerBookLib\ManagerBookLib\bin\Debug\ManagerBookLib.dll
+c:\users\se130585\source\repos\ManagerBookLib\ManagerBookLib\bin\Debug\ManagerBookLib.pdb
+c:\users\se130585\source\repos\ManagerBookLib\ManagerBookLib\obj\Debug\ManagerBookLib.csproj.CoreCompileInputs.cache
+c:\users\se130585\source\repos\ManagerBookLib\ManagerBookLib\obj\Debug\ManagerBookLib.dll
+c:\users\se130585\source\repos\ManagerBookLib\ManagerBookLib\obj\Debug\ManagerBookLib.pdb

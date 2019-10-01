@@ -1,0 +1,9 @@
+c:\users\se130585\source\repos\testlib\testlib\bin\Debug\testlib.exe.config
+c:\users\se130585\source\repos\testlib\testlib\bin\Debug\testlib.exe
+c:\users\se130585\source\repos\testlib\testlib\bin\Debug\testlib.pdb
+c:\users\se130585\source\repos\testlib\testlib\bin\Debug\ManagerBookLib.dll
+c:\users\se130585\source\repos\testlib\testlib\bin\Debug\ManagerBookLib.pdb
+c:\users\se130585\source\repos\testlib\testlib\obj\Debug\testlib.csprojResolveAssemblyReference.cache
+c:\users\se130585\source\repos\testlib\testlib\obj\Debug\testlib.csproj.CoreCompileInputs.cache
+c:\users\se130585\source\repos\testlib\testlib\obj\Debug\testlib.exe
+c:\users\se130585\source\repos\testlib\testlib\obj\Debug\testlib.pdb
